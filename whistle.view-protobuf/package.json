@@ -1,0 +1,19 @@
+{
+  "name": "whistle.view-protobuf",
+  "version": "1.0.0",
+  "description": "protobuf 反序列化",
+  "whistleConfig": {
+    "inspectorTabs": {
+      "res": {
+        "action": "res-tab.html",
+        "name": "protobuf 反序列化"
+      }
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-onerror": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  }
+}}
